@@ -1,0 +1,7 @@
+OOPL : Python 3
+GUI libray: Tkinter
+IDE: Visual Studio 2022
+xUnit: Python unittest
+Programming style: Python
+Project host site: Github.com 
+Other Decisions: solitaire.py, gui.py, tests/test_solitaire.py
